@@ -9,9 +9,9 @@ You can see a video demonstration of my code here: [Software Demo Video](http://
 
 # Development Environment
 
-*Visual Studio Code
-*Python 3.9 64-bit
-*Git and Github
+* Visual Studio Code
+* Python 3.9 64-bit
+* Git and Github
 
 # Useful Websites
 
